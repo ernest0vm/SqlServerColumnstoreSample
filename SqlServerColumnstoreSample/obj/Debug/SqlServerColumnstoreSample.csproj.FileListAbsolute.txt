@@ -1,0 +1,7 @@
+C:\Users\ErnestoVM\Documents\Visual Studio 2017\Projects\SqlServerColumnstoreSample\SqlServerColumnstoreSample\bin\Debug\SqlServerColumnstoreSample.exe.config
+C:\Users\ErnestoVM\Documents\Visual Studio 2017\Projects\SqlServerColumnstoreSample\SqlServerColumnstoreSample\bin\Debug\SqlServerColumnstoreSample.exe
+C:\Users\ErnestoVM\Documents\Visual Studio 2017\Projects\SqlServerColumnstoreSample\SqlServerColumnstoreSample\bin\Debug\SqlServerColumnstoreSample.pdb
+C:\Users\ErnestoVM\Documents\Visual Studio 2017\Projects\SqlServerColumnstoreSample\SqlServerColumnstoreSample\obj\Debug\SqlServerColumnstoreSample.csprojAssemblyReference.cache
+C:\Users\ErnestoVM\Documents\Visual Studio 2017\Projects\SqlServerColumnstoreSample\SqlServerColumnstoreSample\obj\Debug\SqlServerColumnstoreSample.csproj.CoreCompileInputs.cache
+C:\Users\ErnestoVM\Documents\Visual Studio 2017\Projects\SqlServerColumnstoreSample\SqlServerColumnstoreSample\obj\Debug\SqlServerColumnstoreSample.exe
+C:\Users\ErnestoVM\Documents\Visual Studio 2017\Projects\SqlServerColumnstoreSample\SqlServerColumnstoreSample\obj\Debug\SqlServerColumnstoreSample.pdb
